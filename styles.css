@@ -40,8 +40,8 @@ aside {
 .form {
   grid-column: 2 / 3;
   grid-row: 2 / 3;
-  background-color: whitesmoke;
-  padding: 5px 5px;
+  background-color: teal;
+  padding: 1em;
 }
 footer {
   grid-column: 1 / 3;
